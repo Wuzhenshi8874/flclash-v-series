@@ -1,4 +1,4 @@
-# 🚀 FlClash V 系列 / 巨无霸脚本仓库
+# 🚀 FlClash V 系列分流规则 / 巨无霸脚本仓库分流规则
 
 > 面向 FlClash、FlyClash、Bettbox 与标准 Mihomo 内核的覆写脚本仓库。  
 > 本仓库包含轻量 V 系列脚本说明，也包含巨无霸系列使用说明。
@@ -69,7 +69,7 @@ V 系列更适合日常使用：
 ├── README.md                          # 仓库主页说明
 ├── CHANGELOG.md                       # V 系列变更摘要
 ├── SHA256SUMS.txt                     # 文件完整性校验
-├── 巨无霸17号-使用说明.md              # 巨无霸17号详细说明与风险提示
+├── 巨无霸17号分流规则-使用说明.md       # 巨无霸17号详细说明与风险提示
 └── versions/
     ├── FlClash-V57-Xunlei-Direct.js
     ├── FlClash-V58-China-Compatibility.js
